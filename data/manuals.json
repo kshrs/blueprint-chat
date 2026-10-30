@@ -1,0 +1,20 @@
+[
+  {
+    "id": "man-101",
+    "section": "Safety Code §4.1 - Emergency Egress",
+    "content": "All laboratories designated Level 2 (including Lab B-201 and B-202) must maintain an unobstructed 2.0-meter clearance corridor leading to the North Stairwell fire exit.",
+    "tags": ["fire", "safety", "exit", "evacuation", "level 2", "lab b-201", "stairwell"]
+  },
+  {
+    "id": "man-102",
+    "section": "Electrical Specs §7.3 - High Voltage Isolation",
+    "content": "Sector B main electrical breaker unit (Panel HV-02) is situated in Utility Vault U-14 with automatic CO2 suppression system. Authorized technicians only.",
+    "tags": ["electrical", "high-voltage", "panel", "sector b", "power", "utility"]
+  },
+  {
+    "id": "man-103",
+    "section": "HVAC Standards §2.8 - Hazardous Fume Extraction",
+    "content": "Chemical fume extraction shafts vent vertically through the central service core C-3. Pressure differential sensors must trigger alarms if negative draft drops below 40 Pa.",
+    "tags": ["hvac", "ventilation", "chemicals", "core c-3", "shafts"]
+  }
+]

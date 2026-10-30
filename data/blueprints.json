@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bp-201",
+    "title": "Floor Plan Level 2 - Sector B Laboratories",
+    "description": "Architectural floor plan showing Lab B-201, Lab B-202, connecting hallway, and North Stairwell emergency egress door equipped with push-bar release.",
+    "diagram_type": "floor_plan_png",
+    "features": ["lab b-201", "lab b-202", "north stairwell", "hallway", "fire exit", "level 2"]
+  },
+  {
+    "id": "bp-202",
+    "title": "Substation Layout - Utility Vault U-14 & Sector B Panels",
+    "description": "Schematic wiring and cabinet placement blueprint detailing High Voltage Panel HV-02 adjacent to the east firewall in Vault U-14.",
+    "diagram_type": "schematic_cad",
+    "features": ["panel hv-02", "utility vault", "sector b", "high-voltage", "east firewall"]
+  },
+  {
+    "id": "bp-203",
+    "title": "Service Core C-3 Vertical Duct Diagram",
+    "description": "Cross-sectional engineering diagram of vertical exhaust riser running from basement to rooftop fan unit F-9.",
+    "diagram_type": "riser_diagram",
+    "features": ["service core c-3", "hvac", "exhaust", "ventilation"]
+  }
+]
