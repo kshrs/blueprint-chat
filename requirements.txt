@@ -1,0 +1,5 @@
+# Blueprint-Chat requirements
+# Works out of the box with pure Python stdlib for deterministic course demo mode.
+# Can optionally install chromadb and sentence-transformers for production vector embedding:
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
